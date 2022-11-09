@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067833453561",
+    "project_id": "cmsc23-todo-app-gademdem-c4l",
+    "storage_bucket": "cmsc23-todo-app-gademdem-c4l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067833453561:android:b0867d845c485ed5912b28",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067833453561-le59ne7d2gkgn3a0k757citf6ura0dkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJWf_N9b3TzhQfpCAbA95DCCUnO-JryQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067833453561-le59ne7d2gkgn3a0k757citf6ura0dkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
